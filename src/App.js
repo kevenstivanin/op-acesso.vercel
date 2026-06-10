@@ -56,8 +56,8 @@ const MOTIVOS_LIBERACAO = [
 ];
 
 const MOTIVO_DESC = {
-  "Criança":              { label:"DOC do Responsável", placeholder:"CPF ou passaporte do responsável", obrigatorio:true },
-  "Transferência":        { label:"DOC de quem vai transferir", placeholder:"CPF ou passaporte", obrigatorio:true },
+  "Criança":              { label:"DOC do Responsável", placeholder:"DOC do responsável", obrigatorio:true },
+  "Transferência":        { label:"DOC de quem vai transferir", placeholder:"DOC ou Outros", obrigatorio:true },
   "Idoso(a)":             { label:"Observação", placeholder:"Descreva se necessário...", obrigatorio:false },
   "Sócio inadimplente":   { label:"Observação", placeholder:"Descreva se necessário...", obrigatorio:false },
   "Setor incorreto":      { label:"Observação", placeholder:"Descreva se necessário...", obrigatorio:false },
