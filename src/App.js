@@ -71,7 +71,7 @@ const SETORES_PORTOES = [
   { setor:"Totens", portoes:["Toten A conselho","Toten A camarote","Toten N camarote","N-1 Tribuna (dir.)","N-1 Tribuna (esq.)","Toten 1/2","Toten 3/4","Toten 5","Toten 6","Toten 8","Toten 10/11","Toten 12/13","Toten 15/16/17"] },
 ];
 
-const LIDERES = ["Guilherme","Keven","Sheron","Alexsandro","Ebert","Átila","Andrieli","Cristian","Fábio","Jesse","Franciely","Emily","Tainá"];
+const LIDERES = ["Guilherme","Rafael","Keven","Sheron","Alex sandro","Ebert","Átila","Andrieli","Cristian","Fábio","Jesse","Franciely","Emily","Tainá"];
 
 function formatCPF(v) {
   const d = v.replace(/\D/g,"").slice(0,11);
